@@ -29,7 +29,7 @@
         ]
     }, 
     "training_params" : {
-        "is_train" : "False",
+        "is_train" : "True",
         "start_epoch" : 201,
         "batch_size" : 32,
         "end_epoch" : 300,
